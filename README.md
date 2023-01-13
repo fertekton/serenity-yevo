@@ -1,4 +1,23 @@
 
+### Install JAVA - MAVEN
+Project requires JAVA 8 or greater and Maven
+
+1. Install JAVA
+   Link to download Java 8 https://www.oracle.com/java/technologies/downloads/#java8-windows
+
+2. Maven:  https://maven.apache.org/download.cgi
+   Download the binary zip archive.
+
+3. Set environnment variables for JAVA and MAVEN
+   Follow this tutorial: https://www.tutorialspoint.com/maven/maven_environment_setup.htm
+
+4. Download IntelliJ
+
+5. Open the project and execute the proper command
+s
+6. See reports at ```/target/site/serenity/index.html```
+
+
 ### How to run the project
 
 For web desktop
